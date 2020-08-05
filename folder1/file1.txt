@@ -1,1 +1,2 @@
 My name is Esther Agyekum. This is my first git assignment
+This is an edited version
